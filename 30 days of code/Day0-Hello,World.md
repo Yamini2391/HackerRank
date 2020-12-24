@@ -1,7 +1,7 @@
 ##### Day 0 - Hello , World!
 
 ##### this is working  code
-
+```
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -16,3 +16,4 @@ public class Solution {
 		System.out.println(inputString);
 	}
 }
+```
