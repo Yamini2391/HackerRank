@@ -24,7 +24,9 @@ public class Solution {
 
         i1=scan.nextInt();
         d1=scan.nextDouble();
+        
         scan.nextLine();
+        
         s1=scan.nextLine();
 
         System.out.println(i+i1);
